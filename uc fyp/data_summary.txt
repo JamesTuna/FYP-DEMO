@@ -1,0 +1,9 @@
+
+1. 男适应pi 女适应pi esimated_difference:0.05 var0.045 critical_value:1.098 女pi>男pi可能0.86
+2. 晨兴pi 其他pi esimated_difference 0.347953216374269 var0.049199947654538854 confidence interval（0.267,0.429)
+3. 工学院内卷pi 其他内卷pi esimated_difference 0.2240990990990991 var 0.055075491145901864 confidence interval(0.133,0.314)
+4. 沮丧孤单pi 其他孤单pi esimated_difference 0.4385542168674699 var 0.05240524867664658 confidence interval(0.35208555655100304, 0.5250228771839368)
+5. 两类占比 confidence level+-7.3%
+6. 适应交往>10%pi 内卷交往>10% esimated_difference 0.39621318373071523 0.0850129064663499  confidence interval(0.2559418880612379, 0.5364844794001926)
+7. 沮丧从众pi 其他从众pi esimated_difference 0.1433734939759037 0.060638950951888905 confidence interval(0.043319224905287015, 0.24342776304652042)
+8. 沮丧受报道影响pi 其他受影响pi esimated_difference 0.19718875502008026 0.06099488712265231 confidence interval(0.09654719126770396, 0.2978303187724566)

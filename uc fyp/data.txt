@@ -1,0 +1,1021 @@
+1.您的性别是
+男
+蜜月阶段：乐于接触，期待融入  number:  6  percentage in answer:  0.09  percentage in class:  0.33
+沮丧阶段：发现差异，遇到障碍  number:  6  percentage in answer:  0.09  percentage in class:  0.4
+内卷阶段：偏安一隅，拒绝融入  number:  17  percentage in answer:  0.26  percentage in class:  0.37
+恢复调整：逐渐适应，积极接受  number:  28  percentage in answer:  0.43  percentage in class:  0.39
+适应阶段：完全融入，适应文化  number:  8  percentage in answer:  0.12  percentage in class:  0.26
+女
+蜜月阶段：乐于接触，期待融入  number:  12  percentage in answer:  0.1  percentage in class:  0.67
+沮丧阶段：发现差异，遇到障碍  number:  9  percentage in answer:  0.08  percentage in class:  0.6
+内卷阶段：偏安一隅，拒绝融入  number:  29  percentage in answer:  0.25  percentage in class:  0.63
+恢复调整：逐渐适应，积极接受  number:  43  percentage in answer:  0.37  percentage in class:  0.61
+适应阶段：完全融入，适应文化  number:  22  percentage in answer:  0.19  percentage in class:  0.71
+其他
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  1.0  percentage in class:  0.03
+2.您的年级是
+大四及以上
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.02  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  25  percentage in answer:  0.44  percentage in class:  0.54
+恢复调整：逐渐适应，积极接受  number:  19  percentage in answer:  0.33  percentage in class:  0.27
+适应阶段：完全融入，适应文化  number:  12  percentage in answer:  0.21  percentage in class:  0.39
+大三
+蜜月阶段：乐于接触，期待融入  number:  2  percentage in answer:  0.06  percentage in class:  0.11
+沮丧阶段：发现差异，遇到障碍  number:  2  percentage in answer:  0.06  percentage in class:  0.13
+内卷阶段：偏安一隅，拒绝融入  number:  8  percentage in answer:  0.24  percentage in class:  0.17
+恢复调整：逐渐适应，积极接受  number:  17  percentage in answer:  0.5  percentage in class:  0.24
+适应阶段：完全融入，适应文化  number:  5  percentage in answer:  0.15  percentage in class:  0.16
+大一
+蜜月阶段：乐于接触，期待融入  number:  14  percentage in answer:  0.26  percentage in class:  0.78
+沮丧阶段：发现差异，遇到障碍  number:  10  percentage in answer:  0.19  percentage in class:  0.67
+内卷阶段：偏安一隅，拒绝融入  number:  3  percentage in answer:  0.06  percentage in class:  0.07
+恢复调整：逐渐适应，积极接受  number:  19  percentage in answer:  0.35  percentage in class:  0.27
+适应阶段：完全融入，适应文化  number:  8  percentage in answer:  0.15  percentage in class:  0.26
+大二
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.03  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  3  percentage in answer:  0.08  percentage in class:  0.2
+内卷阶段：偏安一隅，拒绝融入  number:  10  percentage in answer:  0.28  percentage in class:  0.22
+恢复调整：逐渐适应，积极接受  number:  16  percentage in answer:  0.44  percentage in class:  0.23
+适应阶段：完全融入，适应文化  number:  6  percentage in answer:  0.17  percentage in class:  0.19
+3.您的书院是
+联合
+蜜月阶段：乐于接触，期待融入  number:  8  percentage in answer:  0.12  percentage in class:  0.44
+沮丧阶段：发现差异，遇到障碍  number:  7  percentage in answer:  0.11  percentage in class:  0.47
+内卷阶段：偏安一隅，拒绝融入  number:  15  percentage in answer:  0.23  percentage in class:  0.33
+恢复调整：逐渐适应，积极接受  number:  21  percentage in answer:  0.32  percentage in class:  0.3
+适应阶段：完全融入，适应文化  number:  14  percentage in answer:  0.22  percentage in class:  0.45
+伍宜孙
+蜜月阶段：乐于接触，期待融入  number:  4  percentage in answer:  0.5  percentage in class:  0.22
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  2  percentage in answer:  0.25  percentage in class:  0.04
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.25  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+逸夫
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.1  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  2  percentage in answer:  0.2  percentage in class:  0.04
+恢复调整：逐渐适应，积极接受  number:  5  percentage in answer:  0.5  percentage in class:  0.07
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  0.2  percentage in class:  0.06
+新亚
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.04  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.04  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  7  percentage in answer:  0.29  percentage in class:  0.15
+恢复调整：逐渐适应，积极接受  number:  11  percentage in answer:  0.46  percentage in class:  0.15
+适应阶段：完全融入，适应文化  number:  4  percentage in answer:  0.17  percentage in class:  0.13
+崇基
+蜜月阶段：乐于接触，期待融入  number:  2  percentage in answer:  0.06  percentage in class:  0.11
+沮丧阶段：发现差异，遇到障碍  number:  3  percentage in answer:  0.09  percentage in class:  0.2
+内卷阶段：偏安一隅，拒绝融入  number:  12  percentage in answer:  0.36  percentage in class:  0.26
+恢复调整：逐渐适应，积极接受  number:  13  percentage in answer:  0.39  percentage in class:  0.18
+适应阶段：完全融入，适应文化  number:  3  percentage in answer:  0.09  percentage in class:  0.1
+敬文
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.2  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  4  percentage in answer:  0.8  percentage in class:  0.06
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+善衡
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  3  percentage in answer:  0.3  percentage in class:  0.2
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.1  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  5  percentage in answer:  0.5  percentage in class:  0.07
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.1  percentage in class:  0.03
+和声
+蜜月阶段：乐于接触，期待融入  number:  2  percentage in answer:  0.12  percentage in class:  0.11
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  5  percentage in answer:  0.31  percentage in class:  0.11
+恢复调整：逐渐适应，积极接受  number:  7  percentage in answer:  0.44  percentage in class:  0.1
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  0.12  percentage in class:  0.06
+晨兴
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.1  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.1  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  3  percentage in answer:  0.3  percentage in class:  0.04
+适应阶段：完全融入，适应文化  number:  5  percentage in answer:  0.5  percentage in class:  0.16
+4.您的学院是？
+工程学院
+蜜月阶段：乐于接触，期待融入  number:  3  percentage in answer:  0.08  percentage in class:  0.17
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.03  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  16  percentage in answer:  0.43  percentage in class:  0.35
+恢复调整：逐渐适应，积极接受  number:  12  percentage in answer:  0.32  percentage in class:  0.17
+适应阶段：完全融入，适应文化  number:  5  percentage in answer:  0.14  percentage in class:  0.16
+工商管理学院
+蜜月阶段：乐于接触，期待融入  number:  4  percentage in answer:  0.07  percentage in class:  0.22
+沮丧阶段：发现差异，遇到障碍  number:  9  percentage in answer:  0.16  percentage in class:  0.6
+内卷阶段：偏安一隅，拒绝融入  number:  13  percentage in answer:  0.22  percentage in class:  0.28
+恢复调整：逐渐适应，积极接受  number:  22  percentage in answer:  0.38  percentage in class:  0.31
+适应阶段：完全融入，适应文化  number:  10  percentage in answer:  0.17  percentage in class:  0.32
+理学院
+蜜月阶段：乐于接触，期待融入  number:  6  percentage in answer:  0.14  percentage in class:  0.33
+沮丧阶段：发现差异，遇到障碍  number:  2  percentage in answer:  0.05  percentage in class:  0.13
+内卷阶段：偏安一隅，拒绝融入  number:  10  percentage in answer:  0.24  percentage in class:  0.22
+恢复调整：逐渐适应，积极接受  number:  17  percentage in answer:  0.4  percentage in class:  0.24
+适应阶段：完全融入，适应文化  number:  7  percentage in answer:  0.17  percentage in class:  0.23
+社会科学院
+蜜月阶段：乐于接触，期待融入  number:  5  percentage in answer:  0.14  percentage in class:  0.28
+沮丧阶段：发现差异，遇到障碍  number:  3  percentage in answer:  0.08  percentage in class:  0.2
+内卷阶段：偏安一隅，拒绝融入  number:  7  percentage in answer:  0.19  percentage in class:  0.15
+恢复调整：逐渐适应，积极接受  number:  14  percentage in answer:  0.39  percentage in class:  0.2
+适应阶段：完全融入，适应文化  number:  7  percentage in answer:  0.19  percentage in class:  0.23
+文学院
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  6  percentage in answer:  1.0  percentage in class:  0.08
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+医学院
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  1.0  percentage in class:  0.06
+5. 大学本科毕业后，您的规划是？
+去国外
+蜜月阶段：乐于接触，期待融入  number:  6  percentage in answer:  0.09  percentage in class:  0.33
+沮丧阶段：发现差异，遇到障碍  number:  3  percentage in answer:  0.04  percentage in class:  0.2
+内卷阶段：偏安一隅，拒绝融入  number:  18  percentage in answer:  0.26  percentage in class:  0.39
+恢复调整：逐渐适应，积极接受  number:  25  percentage in answer:  0.37  percentage in class:  0.35
+适应阶段：完全融入，适应文化  number:  16  percentage in answer:  0.24  percentage in class:  0.52
+不清楚
+蜜月阶段：乐于接触，期待融入  number:  6  percentage in answer:  0.14  percentage in class:  0.33
+沮丧阶段：发现差异，遇到障碍  number:  6  percentage in answer:  0.14  percentage in class:  0.4
+内卷阶段：偏安一隅，拒绝融入  number:  10  percentage in answer:  0.23  percentage in class:  0.22
+恢复调整：逐渐适应，积极接受  number:  16  percentage in answer:  0.37  percentage in class:  0.23
+适应阶段：完全融入，适应文化  number:  5  percentage in answer:  0.12  percentage in class:  0.16
+回内地
+蜜月阶段：乐于接触，期待融入  number:  3  percentage in answer:  0.19  percentage in class:  0.17
+沮丧阶段：发现差异，遇到障碍  number:  2  percentage in answer:  0.12  percentage in class:  0.13
+内卷阶段：偏安一隅，拒绝融入  number:  4  percentage in answer:  0.25  percentage in class:  0.09
+恢复调整：逐渐适应，积极接受  number:  5  percentage in answer:  0.31  percentage in class:  0.07
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  0.12  percentage in class:  0.06
+在香港工作
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.04  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  3  percentage in answer:  0.11  percentage in class:  0.2
+内卷阶段：偏安一隅，拒绝融入  number:  7  percentage in answer:  0.26  percentage in class:  0.15
+恢复调整：逐渐适应，积极接受  number:  12  percentage in answer:  0.44  percentage in class:  0.17
+适应阶段：完全融入，适应文化  number:  4  percentage in answer:  0.15  percentage in class:  0.13
+在香港读研
+蜜月阶段：乐于接触，期待融入  number:  2  percentage in answer:  0.07  percentage in class:  0.11
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.04  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  7  percentage in answer:  0.26  percentage in class:  0.15
+恢复调整：逐渐适应，积极接受  number:  13  percentage in answer:  0.48  percentage in class:  0.18
+适应阶段：完全融入，适应文化  number:  4  percentage in answer:  0.15  percentage in class:  0.13
+6.您是否会因为未来没有留在香港的打算，所以减少了融入香港本地生群体的积极性？
+是
+蜜月阶段：乐于接触，期待融入  number:  3  percentage in answer:  0.04  percentage in class:  0.17
+沮丧阶段：发现差异，遇到障碍  number:  9  percentage in answer:  0.12  percentage in class:  0.6
+内卷阶段：偏安一隅，拒绝融入  number:  28  percentage in answer:  0.36  percentage in class:  0.61
+恢复调整：逐渐适应，积极接受  number:  27  percentage in answer:  0.35  percentage in class:  0.38
+适应阶段：完全融入，适应文化  number:  11  percentage in answer:  0.14  percentage in class:  0.35
+否
+蜜月阶段：乐于接触，期待融入  number:  15  percentage in answer:  0.15  percentage in class:  0.83
+沮丧阶段：发现差异，遇到障碍  number:  6  percentage in answer:  0.06  percentage in class:  0.4
+内卷阶段：偏安一隅，拒绝融入  number:  18  percentage in answer:  0.17  percentage in class:  0.39
+恢复调整：逐渐适应，积极接受  number:  44  percentage in answer:  0.43  percentage in class:  0.62
+适应阶段：完全融入，适应文化  number:  20  percentage in answer:  0.19  percentage in class:  0.65
+7.  您的粤语水平多大程度上影响您融入香港本地生群体？
+比较大
+蜜月阶段：乐于接触，期待融入  number:  8  percentage in answer:  0.1  percentage in class:  0.44
+沮丧阶段：发现差异，遇到障碍  number:  5  percentage in answer:  0.06  percentage in class:  0.33
+内卷阶段：偏安一隅，拒绝融入  number:  21  percentage in answer:  0.26  percentage in class:  0.46
+恢复调整：逐渐适应，积极接受  number:  39  percentage in answer:  0.49  percentage in class:  0.55
+适应阶段：完全融入，适应文化  number:  7  percentage in answer:  0.09  percentage in class:  0.23
+非常大
+蜜月阶段：乐于接触，期待融入  number:  8  percentage in answer:  0.14  percentage in class:  0.44
+沮丧阶段：发现差异，遇到障碍  number:  8  percentage in answer:  0.14  percentage in class:  0.53
+内卷阶段：偏安一隅，拒绝融入  number:  19  percentage in answer:  0.33  percentage in class:  0.41
+恢复调整：逐渐适应，积极接受  number:  15  percentage in answer:  0.26  percentage in class:  0.21
+适应阶段：完全融入，适应文化  number:  7  percentage in answer:  0.12  percentage in class:  0.23
+几乎没有
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.1  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  2  percentage in answer:  0.2  percentage in class:  0.04
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.2  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  5  percentage in answer:  0.5  percentage in class:  0.16
+比较小
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.14  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.29  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  4  percentage in answer:  0.57  percentage in class:  0.13
+一般
+蜜月阶段：乐于接触，期待融入  number:  2  percentage in answer:  0.07  percentage in class:  0.11
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.04  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  3  percentage in answer:  0.11  percentage in class:  0.07
+恢复调整：逐渐适应，积极接受  number:  13  percentage in answer:  0.48  percentage in class:  0.18
+适应阶段：完全融入，适应文化  number:  8  percentage in answer:  0.3  percentage in class:  0.26
+8.  相较于高中生活，现在的宿舍生活是否让您感到更孤单？
+否
+蜜月阶段：乐于接触，期待融入  number:  13  percentage in answer:  0.12  percentage in class:  0.72
+沮丧阶段：发现差异，遇到障碍  number:  3  percentage in answer:  0.03  percentage in class:  0.2
+内卷阶段：偏安一隅，拒绝融入  number:  25  percentage in answer:  0.23  percentage in class:  0.54
+恢复调整：逐渐适应，积极接受  number:  45  percentage in answer:  0.41  percentage in class:  0.63
+适应阶段：完全融入，适应文化  number:  23  percentage in answer:  0.21  percentage in class:  0.74
+是
+蜜月阶段：乐于接触，期待融入  number:  5  percentage in answer:  0.07  percentage in class:  0.28
+沮丧阶段：发现差异，遇到障碍  number:  12  percentage in answer:  0.17  percentage in class:  0.8
+内卷阶段：偏安一隅，拒绝融入  number:  21  percentage in answer:  0.29  percentage in class:  0.46
+恢复调整：逐渐适应，积极接受  number:  26  percentage in answer:  0.36  percentage in class:  0.37
+适应阶段：完全融入，适应文化  number:  8  percentage in answer:  0.11  percentage in class:  0.26
+9. 和香港本地生做室友的经历对您融入香港本地生群体产生了怎样的影响？
+负面影响
+蜜月阶段：乐于接触，期待融入  number:  2  percentage in answer:  0.08  percentage in class:  0.11
+沮丧阶段：发现差异，遇到障碍  number:  2  percentage in answer:  0.08  percentage in class:  0.13
+内卷阶段：偏安一隅，拒绝融入  number:  8  percentage in answer:  0.31  percentage in class:  0.17
+恢复调整：逐渐适应，积极接受  number:  9  percentage in answer:  0.35  percentage in class:  0.13
+适应阶段：完全融入，适应文化  number:  5  percentage in answer:  0.19  percentage in class:  0.16
+正面影响
+蜜月阶段：乐于接触，期待融入  number:  8  percentage in answer:  0.11  percentage in class:  0.44
+沮丧阶段：发现差异，遇到障碍  number:  4  percentage in answer:  0.06  percentage in class:  0.27
+内卷阶段：偏安一隅，拒绝融入  number:  19  percentage in answer:  0.27  percentage in class:  0.41
+恢复调整：逐渐适应，积极接受  number:  29  percentage in answer:  0.41  percentage in class:  0.41
+适应阶段：完全融入，适应文化  number:  10  percentage in answer:  0.14  percentage in class:  0.32
+没有和本地生做室友的经历
+蜜月阶段：乐于接触，期待融入  number:  8  percentage in answer:  0.09  percentage in class:  0.44
+沮丧阶段：发现差异，遇到障碍  number:  9  percentage in answer:  0.11  percentage in class:  0.6
+内卷阶段：偏安一隅，拒绝融入  number:  19  percentage in answer:  0.22  percentage in class:  0.41
+恢复调整：逐渐适应，积极接受  number:  33  percentage in answer:  0.39  percentage in class:  0.46
+适应阶段：完全融入，适应文化  number:  16  percentage in answer:  0.19  percentage in class:  0.52
+10. 相较于香港本地生，您是否更愿意和内地生做室友 ？
+是
+蜜月阶段：乐于接触，期待融入  number:  10  percentage in answer:  0.08  percentage in class:  0.56
+沮丧阶段：发现差异，遇到障碍  number:  9  percentage in answer:  0.07  percentage in class:  0.6
+内卷阶段：偏安一隅，拒绝融入  number:  36  percentage in answer:  0.29  percentage in class:  0.78
+恢复调整：逐渐适应，积极接受  number:  49  percentage in answer:  0.39  percentage in class:  0.69
+适应阶段：完全融入，适应文化  number:  22  percentage in answer:  0.17  percentage in class:  0.71
+否
+蜜月阶段：乐于接触，期待融入  number:  8  percentage in answer:  0.15  percentage in class:  0.44
+沮丧阶段：发现差异，遇到障碍  number:  6  percentage in answer:  0.11  percentage in class:  0.4
+内卷阶段：偏安一隅，拒绝融入  number:  10  percentage in answer:  0.18  percentage in class:  0.22
+恢复调整：逐渐适应，积极接受  number:  22  percentage in answer:  0.4  percentage in class:  0.31
+适应阶段：完全融入，适应文化  number:  9  percentage in answer:  0.16  percentage in class:  0.29
+11. 书院的宿分政策对您融入香港本地生群体有什么影响？
+没有影响
+蜜月阶段：乐于接触，期待融入  number:  8  percentage in answer:  0.06  percentage in class:  0.44
+沮丧阶段：发现差异，遇到障碍  number:  8  percentage in answer:  0.06  percentage in class:  0.53
+内卷阶段：偏安一隅，拒绝融入  number:  39  percentage in answer:  0.31  percentage in class:  0.85
+恢复调整：逐渐适应，积极接受  number:  48  percentage in answer:  0.39  percentage in class:  0.68
+适应阶段：完全融入，适应文化  number:  21  percentage in answer:  0.17  percentage in class:  0.68
+有帮助
+蜜月阶段：乐于接触，期待融入  number:  6  percentage in answer:  0.18  percentage in class:  0.33
+沮丧阶段：发现差异，遇到障碍  number:  5  percentage in answer:  0.15  percentage in class:  0.33
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  17  percentage in answer:  0.5  percentage in class:  0.24
+适应阶段：完全融入，适应文化  number:  6  percentage in answer:  0.18  percentage in class:  0.19
+有阻碍
+蜜月阶段：乐于接触，期待融入  number:  4  percentage in answer:  0.24  percentage in class:  0.22
+沮丧阶段：发现差异，遇到障碍  number:  2  percentage in answer:  0.12  percentage in class:  0.13
+内卷阶段：偏安一隅，拒绝融入  number:  7  percentage in answer:  0.41  percentage in class:  0.15
+恢复调整：逐渐适应，积极接受  number:  3  percentage in answer:  0.18  percentage in class:  0.04
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.06  percentage in class:  0.03
+帮助很大
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  1.0  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+阻碍很大
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.25  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  3  percentage in answer:  0.75  percentage in class:  0.1
+12.您参加宿生会活动的频率？
+从来不参加
+蜜月阶段：乐于接触，期待融入  number:  2  percentage in answer:  0.05  percentage in class:  0.11
+沮丧阶段：发现差异，遇到障碍  number:  3  percentage in answer:  0.07  percentage in class:  0.2
+内卷阶段：偏安一隅，拒绝融入  number:  20  percentage in answer:  0.45  percentage in class:  0.43
+恢复调整：逐渐适应，积极接受  number:  13  percentage in answer:  0.3  percentage in class:  0.18
+适应阶段：完全融入，适应文化  number:  6  percentage in answer:  0.14  percentage in class:  0.19
+基本不参加
+蜜月阶段：乐于接触，期待融入  number:  10  percentage in answer:  0.11  percentage in class:  0.56
+沮丧阶段：发现差异，遇到障碍  number:  6  percentage in answer:  0.07  percentage in class:  0.4
+内卷阶段：偏安一隅，拒绝融入  number:  20  percentage in answer:  0.23  percentage in class:  0.43
+恢复调整：逐渐适应，积极接受  number:  32  percentage in answer:  0.37  percentage in class:  0.45
+适应阶段：完全融入，适应文化  number:  19  percentage in answer:  0.22  percentage in class:  0.61
+有时参加
+蜜月阶段：乐于接触，期待融入  number:  5  percentage in answer:  0.11  percentage in class:  0.28
+沮丧阶段：发现差异，遇到障碍  number:  6  percentage in answer:  0.13  percentage in class:  0.4
+内卷阶段：偏安一隅，拒绝融入  number:  5  percentage in answer:  0.11  percentage in class:  0.11
+恢复调整：逐渐适应，积极接受  number:  24  percentage in answer:  0.53  percentage in class:  0.34
+适应阶段：完全融入，适应文化  number:  5  percentage in answer:  0.11  percentage in class:  0.16
+经常参加
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.2  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.2  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.4  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.2  percentage in class:  0.03
+13. 书院活动（例如周会，共膳，语言桌等）对您融入香港本地生群体的影响？
+没有影响
+蜜月阶段：乐于接触，期待融入  number:  11  percentage in answer:  0.11  percentage in class:  0.61
+沮丧阶段：发现差异，遇到障碍  number:  6  percentage in answer:  0.06  percentage in class:  0.4
+内卷阶段：偏安一隅，拒绝融入  number:  36  percentage in answer:  0.36  percentage in class:  0.78
+恢复调整：逐渐适应，积极接受  number:  33  percentage in answer:  0.33  percentage in class:  0.46
+适应阶段：完全融入，适应文化  number:  14  percentage in answer:  0.14  percentage in class:  0.45
+有阻碍
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  2  percentage in answer:  0.4  percentage in class:  0.04
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.4  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.2  percentage in class:  0.03
+有帮助
+蜜月阶段：乐于接触，期待融入  number:  7  percentage in answer:  0.1  percentage in class:  0.39
+沮丧阶段：发现差异，遇到障碍  number:  7  percentage in answer:  0.1  percentage in class:  0.47
+内卷阶段：偏安一隅，拒绝融入  number:  8  percentage in answer:  0.12  percentage in class:  0.17
+恢复调整：逐渐适应，积极接受  number:  33  percentage in answer:  0.48  percentage in class:  0.46
+适应阶段：完全融入，适应文化  number:  14  percentage in answer:  0.2  percentage in class:  0.45
+阻碍很大
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.5  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.5  percentage in class:  0.03
+帮助很大
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  2  percentage in answer:  0.4  percentage in class:  0.13
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.4  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.2  percentage in class:  0.03
+14.宿生会活动（例如宿舍迎新，月食等）对您融入香港本地生群体的影响？
+没有影响
+蜜月阶段：乐于接触，期待融入  number:  10  percentage in answer:  0.09  percentage in class:  0.56
+沮丧阶段：发现差异，遇到障碍  number:  8  percentage in answer:  0.08  percentage in class:  0.53
+内卷阶段：偏安一隅，拒绝融入  number:  33  percentage in answer:  0.31  percentage in class:  0.72
+恢复调整：逐渐适应，积极接受  number:  37  percentage in answer:  0.35  percentage in class:  0.52
+适应阶段：完全融入，适应文化  number:  18  percentage in answer:  0.17  percentage in class:  0.58
+有帮助
+蜜月阶段：乐于接触，期待融入  number:  8  percentage in answer:  0.13  percentage in class:  0.44
+沮丧阶段：发现差异，遇到障碍  number:  6  percentage in answer:  0.1  percentage in class:  0.4
+内卷阶段：偏安一隅，拒绝融入  number:  9  percentage in answer:  0.14  percentage in class:  0.2
+恢复调整：逐渐适应，积极接受  number:  28  percentage in answer:  0.44  percentage in class:  0.39
+适应阶段：完全融入，适应文化  number:  12  percentage in answer:  0.19  percentage in class:  0.39
+阻碍很大
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.67  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.33  percentage in class:  0.03
+帮助很大
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.17  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.17  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  4  percentage in answer:  0.67  percentage in class:  0.06
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+有阻碍
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  3  percentage in answer:  1.0  percentage in class:  0.07
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+15.以下哪些因素会阻碍您参加宿生会活动？（多选）
+语言不通, 活动时间过晚, 影响学习, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.33  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  2  percentage in answer:  0.67  percentage in class:  0.04
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 没有共同话题, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.5  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.5  percentage in class:  0.03
+语言不通, 没有共同话题, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.5  percentage in class:  0.03
+语言不通, 游戏方式不了解, 活动时间过晚, 没有共同话题
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.33  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.67  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+没有共同话题, 影响学习, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  1.0  percentage in class:  0.06
+语言不通, 活动时间过晚, 没有共同话题, 影响学习, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.33  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  2  percentage in answer:  0.67  percentage in class:  0.04
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 没有共同话题, 影响学习, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  1.0  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 感觉受到歧视, 影响学习, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 没有共同话题, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通
+蜜月阶段：乐于接触，期待融入  number:  3  percentage in answer:  0.43  percentage in class:  0.17
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.14  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.14  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  0.29  percentage in class:  0.06
+活动时间过晚, 没有共同话题, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.5  percentage in class:  0.03
+活动时间过晚, 没有共同话题, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 感觉受到歧视, 没有共同话题, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  1.0  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 没有共同话题, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.33  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.67  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚
+蜜月阶段：乐于接触，期待融入  number:  4  percentage in answer:  0.5  percentage in class:  0.22
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  3  percentage in answer:  0.38  percentage in class:  0.04
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.12  percentage in class:  0.03
+语言不通, 游戏方式不了解, 活动时间过晚, 没有共同话题, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  3  percentage in answer:  0.5  percentage in class:  0.07
+恢复调整：逐渐适应，积极接受  number:  3  percentage in answer:  0.5  percentage in class:  0.04
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+活动时间过晚, 没有共同话题, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  1.0  percentage in class:  0.03
+游戏方式不了解, 活动时间过晚
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  1.0  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 感觉受到歧视, 没有共同话题, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+活动时间过晚, 感觉受到歧视
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.5  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.5  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 感觉受到歧视, 没有共同话题, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.5  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 没有共同话题
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  3  percentage in answer:  0.6  percentage in class:  0.07
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  0.4  percentage in class:  0.06
+语言不通, 游戏方式不了解, 活动时间过晚, 感觉受到歧视, 没有共同话题, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  2  percentage in answer:  1.0  percentage in class:  0.04
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 没有共同话题, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  1.0  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 没有共同话题, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.67  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.33  percentage in class:  0.03
+没有共同话题, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 没有共同话题, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  2  percentage in answer:  0.67  percentage in class:  0.04
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.33  percentage in class:  0.03
+没有
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.33  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  0.67  percentage in class:  0.06
+语言不通, 游戏方式不了解, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 影响学习, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 感觉受到歧视, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+活动时间过晚, 影响学习, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 没有共同话题, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 没有共同话题, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.67  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.33  percentage in class:  0.03
+语言不通, 不好玩
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.5  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 感觉受到歧视, 没有共同话题, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.33  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.33  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.33  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 没有共同话题, 影响学习, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.5  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.25  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  3  percentage in answer:  0.75  percentage in class:  0.04
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.33  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.33  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.33  percentage in class:  0.03
+活动时间过晚, 没有共同话题, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 感觉受到歧视, 没有共同话题, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+游戏方式不了解, 活动时间过晚, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+游戏方式不了解, 活动时间过晚, 没有共同话题, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+没有共同话题, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  1.0  percentage in class:  0.03
+活动时间过晚, 感觉受到歧视, 没有共同话题, 影响学习, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+活动时间过晚, 没有共同话题, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+活动时间过晚, 没有共同话题, 影响学习, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.5  percentage in class:  0.03
+语言不通, 没有共同话题
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.17  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.17  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.17  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  3  percentage in answer:  0.5  percentage in class:  0.04
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 没有共同话题, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.5  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 没有共同话题, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 感觉受到歧视, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  1.0  percentage in class:  0.03
+游戏方式不了解, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  1.0  percentage in class:  0.03
+语言不通, 游戏方式不了解, 活动时间过晚, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+活动时间过晚, 没有共同话题
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.5  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.5  percentage in class:  0.03
+语言不通, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.33  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.33  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.33  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 感觉受到歧视, 没有共同话题, 影响学习, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  1.0  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+活动时间过晚
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.17  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.17  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.33  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  0.33  percentage in class:  0.06
+语言不通, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 没有共同话题, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.25  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.5  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.25  percentage in class:  0.03
+语言不通, 没有共同话题, 影响学习, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.5  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  1.0  percentage in class:  0.03
+感觉受到歧视
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  1.0  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+感觉受到歧视, 没有共同话题, 影响学习, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+没有共同话题, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  1.0  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 感觉受到歧视, 没有共同话题, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.5  percentage in class:  0.03
+语言不通, 活动时间过晚, 感觉受到歧视, 没有共同话题, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  1.0  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 感觉受到歧视, 没有共同话题, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  1.0  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+没有共同话题, 宣传方式过激（逐间敲门，喇叭宣传）, 就是宅
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 没有共同话题, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.25  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.25  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.25  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.25  percentage in class:  0.03
+语言不通, 游戏方式不了解, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  1.0  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 感觉受到歧视, 没有共同话题
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.5  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.5  percentage in class:  0.03
+活动时间过晚, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  1.0  percentage in class:  0.03
+晨兴没有宿生会
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+活动时间过晚, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.25  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  3  percentage in answer:  0.75  percentage in class:  0.04
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 感觉受到歧视
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 感觉受到歧视, 没有共同话题, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  0.5  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 没有共同话题, 影响学习
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.5  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.5  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  1.0  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+活动时间过晚, 影响学习, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 活动时间过晚, 感觉受到歧视, 没有共同话题, 影响学习, 交往习惯不同
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  1  percentage in answer:  1.0  percentage in class:  0.01
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+语言不通, 游戏方式不了解, 活动时间过晚, 感觉受到歧视, 没有共同话题
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  1.0  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+游戏方式不了解, 活动时间过晚, 交往习惯不同, 宣传方式过激（逐间敲门，喇叭宣传）
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  1.0  percentage in class:  0.03
+语言不通, 感觉受到歧视
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  1.0  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+恢复调整：逐渐适应，积极接受  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+适应阶段：完全融入，适应文化  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+16.您经常交往的人中，香港本地生所占比例是多少？
+0~10%
+蜜月阶段：乐于接触，期待融入  number:  12  percentage in answer:  0.11  percentage in class:  0.67
+沮丧阶段：发现差异，遇到障碍  number:  8  percentage in answer:  0.07  percentage in class:  0.53
+内卷阶段：偏安一隅，拒绝融入  number:  39  percentage in answer:  0.36  percentage in class:  0.85
+恢复调整：逐渐适应，积极接受  number:  34  percentage in answer:  0.32  percentage in class:  0.48
+适应阶段：完全融入，适应文化  number:  14  percentage in answer:  0.13  percentage in class:  0.45
+10%~25%
+蜜月阶段：乐于接触，期待融入  number:  4  percentage in answer:  0.07  percentage in class:  0.22
+沮丧阶段：发现差异，遇到障碍  number:  5  percentage in answer:  0.09  percentage in class:  0.33
+内卷阶段：偏安一隅，拒绝融入  number:  4  percentage in answer:  0.07  percentage in class:  0.09
+恢复调整：逐渐适应，积极接受  number:  32  percentage in answer:  0.56  percentage in class:  0.45
+适应阶段：完全融入，适应文化  number:  12  percentage in answer:  0.21  percentage in class:  0.39
+25%~50%
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.1  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.1  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.1  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  3  percentage in answer:  0.3  percentage in class:  0.04
+适应阶段：完全融入，适应文化  number:  4  percentage in answer:  0.4  percentage in class:  0.13
+50%~100%
+蜜月阶段：乐于接触，期待融入  number:  1  percentage in answer:  0.14  percentage in class:  0.06
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.14  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  2  percentage in answer:  0.29  percentage in class:  0.04
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.29  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  1  percentage in answer:  0.14  percentage in class:  0.03
+17.内地生群体的存在对您融入香港本地生群体有什么影响？
+有阻碍
+蜜月阶段：乐于接触，期待融入  number:  2  percentage in answer:  0.03  percentage in class:  0.11
+沮丧阶段：发现差异，遇到障碍  number:  6  percentage in answer:  0.09  percentage in class:  0.4
+内卷阶段：偏安一隅，拒绝融入  number:  20  percentage in answer:  0.3  percentage in class:  0.43
+恢复调整：逐渐适应，积极接受  number:  31  percentage in answer:  0.46  percentage in class:  0.44
+适应阶段：完全融入，适应文化  number:  8  percentage in answer:  0.12  percentage in class:  0.26
+阻碍很大
+蜜月阶段：乐于接触，期待融入  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+沮丧阶段：发现差异，遇到障碍  number:  1  percentage in answer:  0.08  percentage in class:  0.07
+内卷阶段：偏安一隅，拒绝融入  number:  5  percentage in answer:  0.42  percentage in class:  0.11
+恢复调整：逐渐适应，积极接受  number:  2  percentage in answer:  0.17  percentage in class:  0.03
+适应阶段：完全融入，适应文化  number:  4  percentage in answer:  0.33  percentage in class:  0.13
+帮助很大
+蜜月阶段：乐于接触，期待融入  number:  3  percentage in answer:  0.23  percentage in class:  0.17
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  3  percentage in answer:  0.23  percentage in class:  0.07
+恢复调整：逐渐适应，积极接受  number:  5  percentage in answer:  0.38  percentage in class:  0.07
+适应阶段：完全融入，适应文化  number:  2  percentage in answer:  0.15  percentage in class:  0.06
+没有影响
+蜜月阶段：乐于接触，期待融入  number:  9  percentage in answer:  0.14  percentage in class:  0.5
+沮丧阶段：发现差异，遇到障碍  number:  8  percentage in answer:  0.12  percentage in class:  0.53
+内卷阶段：偏安一隅，拒绝融入  number:  17  percentage in answer:  0.27  percentage in class:  0.37
+恢复调整：逐渐适应，积极接受  number:  17  percentage in answer:  0.27  percentage in class:  0.24
+适应阶段：完全融入，适应文化  number:  13  percentage in answer:  0.2  percentage in class:  0.42
+有帮助
+蜜月阶段：乐于接触，期待融入  number:  4  percentage in answer:  0.16  percentage in class:  0.22
+沮丧阶段：发现差异，遇到障碍  number:  0  percentage in answer:  0.0  percentage in class:  0.0
+内卷阶段：偏安一隅，拒绝融入  number:  1  percentage in answer:  0.04  percentage in class:  0.02
+恢复调整：逐渐适应，积极接受  number:  16  percentage in answer:  0.64  percentage in class:  0.23
+适应阶段：完全融入，适应文化  number:  4  percentage in answer:  0.16  percentage in class:  0.13
+18.您会不会因为其它内地生不参加宿生会活动而降低自己的参与积极性？
+会
+蜜月阶段：乐于接触，期待融入  number:  12  percentage in answer:  0.1  percentage in class:  0.67
+沮丧阶段：发现差异，遇到障碍  number:  12  percentage in answer:  0.1  percentage in class:  0.8
+内卷阶段：偏安一隅，拒绝融入  number:  35  percentage in answer:  0.29  percentage in class:  0.76
+恢复调整：逐渐适应，积极接受  number:  46  percentage in answer:  0.38  percentage in class:  0.65
+适应阶段：完全融入，适应文化  number:  16  percentage in answer:  0.13  percentage in class:  0.52
+不会
+蜜月阶段：乐于接触，期待融入  number:  6  percentage in answer:  0.1  percentage in class:  0.33
+沮丧阶段：发现差异，遇到障碍  number:  3  percentage in answer:  0.05  percentage in class:  0.2
+内卷阶段：偏安一隅，拒绝融入  number:  11  percentage in answer:  0.18  percentage in class:  0.24
+恢复调整：逐渐适应，积极接受  number:  25  percentage in answer:  0.42  percentage in class:  0.35
+适应阶段：完全融入，适应文化  number:  15  percentage in answer:  0.25  percentage in class:  0.48
+19. 您是否认为新闻报道阻碍了内地生融入香港学生群体？
+是
+蜜月阶段：乐于接触，期待融入  number:  9  percentage in answer:  0.09  percentage in class:  0.5
+沮丧阶段：发现差异，遇到障碍  number:  11  percentage in answer:  0.11  percentage in class:  0.73
+内卷阶段：偏安一隅，拒绝融入  number:  26  percentage in answer:  0.26  percentage in class:  0.57
+恢复调整：逐渐适应，积极接受  number:  37  percentage in answer:  0.37  percentage in class:  0.52
+适应阶段：完全融入，适应文化  number:  17  percentage in answer:  0.17  percentage in class:  0.55
+否
+蜜月阶段：乐于接触，期待融入  number:  9  percentage in answer:  0.11  percentage in class:  0.5
+沮丧阶段：发现差异，遇到障碍  number:  4  percentage in answer:  0.05  percentage in class:  0.27
+内卷阶段：偏安一隅，拒绝融入  number:  20  percentage in answer:  0.25  percentage in class:  0.43
+恢复调整：逐渐适应，积极接受  number:  34  percentage in answer:  0.42  percentage in class:  0.48
+适应阶段：完全融入，适应文化  number:  14  percentage in answer:  0.17  percentage in class:  0.45
